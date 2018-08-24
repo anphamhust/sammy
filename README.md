@@ -1,1 +1,3 @@
 # sammy
+
+Language: Go
